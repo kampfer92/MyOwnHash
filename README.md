@@ -1,0 +1,2 @@
+# MyOwnHash
+project for university
